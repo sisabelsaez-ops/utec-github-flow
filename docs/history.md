@@ -7,7 +7,6 @@ Initially, only a single contributor updated these files. As more people joined,
 
 Today, the repository is used by small groups to simulate how a team would maintain documentation over multiple iterations.
 
- This history section has been updated as part of collaborative worrk.
-
 Today, the repository is used by small groups to simulate how a team would maintain documentation over multiple iterations.
 
+This history section has been updated as part of collaborative work.
