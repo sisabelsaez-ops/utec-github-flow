@@ -1,4 +1,4 @@
-#1.1.0
+## v1.1.0
 
 - Se realizaron cambios en el contenido de los archivos introduction.md (branch feature/conflict-a) y history.md (branch feature/conflict-b) respectivamente, donde se hizo énfasis en el trabajo colaborativo para grupos pequeños. 
 
