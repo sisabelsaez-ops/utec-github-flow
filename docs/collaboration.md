@@ -1,4 +1,4 @@
-#·Collaboration Guideines
+#Collaboration Guideines
 
 Collaboration requires clear communication and well-defined responsibilities.
 
